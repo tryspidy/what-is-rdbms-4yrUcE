@@ -1,0 +1,17 @@
+Relational Database Management System
+(RDBMS) means that tables in
+database are related using
+primary/foreign key relationship. Used to store,
+modify and retrieve data in the database.
+
+• How are they related?
+Primary Key (unique and not NULL)
+Foreign Key (duplicate and NULL)
+
+• What type of database system you have expertise with?
+RDBMS, such as SQL and Oracle
+• Entity Relation Model (ERM):
+An entity can be a real-world object, that can
+be easily identifiable: student, class, teacher.
+• Attributes:
+Things that describe the Entity. (student name, age, birthday…)
